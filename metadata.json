@@ -1,0 +1,5 @@
+{
+  "name": "Ollama Subtitle Translator",
+  "description": "A high-performance web tool that connects to your local Ollama instance to translate Japanese subtitles (.srt) into Chinese, featuring batch processing, real-time progress tracking, and execution statistics.",
+  "requestFramePermissions": []
+}
